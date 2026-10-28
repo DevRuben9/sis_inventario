@@ -1,5 +1,5 @@
 "use strict";
-import './producto.js';
+import './productos.js';
 (function () {
   var sidebarStorageKey = "adminHMD.sidebarMini";
   var themeStorageKey = "adminHMD.colorTheme";
